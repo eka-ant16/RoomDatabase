@@ -1,0 +1,12 @@
+com/eka/roomdatabase/WordRoomDatabase_Impl.java
+ com.eka.roomdatabase.WordRoomDatabase_Impl
+ com.eka.roomdatabase.WordRoomDatabase_Impl$1
+com/eka/roomdatabase/WordDao_Impl.java
+ com.eka.roomdatabase.WordDao_Impl
+ com.eka.roomdatabase.WordDao_Impl$1
+ com.eka.roomdatabase.WordDao_Impl$2
+ com.eka.roomdatabase.WordDao_Impl$3
+ com.eka.roomdatabase.WordDao_Impl$4
+ com.eka.roomdatabase.WordDao_Impl$5
+com/eka/roomdatabase/BuildConfig.java
+ com.eka.roomdatabase.BuildConfig
